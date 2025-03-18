@@ -1,3 +1,4 @@
 
 version=4.99.5-2
 git_src -b "debian/$version" https://salsa.debian.org/debian/tcpdump.git
+version_suffix="gl0~bp1443"
